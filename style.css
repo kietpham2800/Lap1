@@ -1,0 +1,36 @@
+.border {
+    border: red solid 1px;
+}
+
+#menu ul {
+    background: #333;
+    list-style-type: none;
+    overflow: hidden;
+    width: 100%;
+  }
+
+  #menu li {
+    color: #f1f1f1;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: -5px;
+  }
+
+  #menu a:hover {
+      text-decoration: none;
+      color: gray;
+  }
+
+  .btnHome:hover {
+      color: blue;
+  }
+
+  #image img {
+      margin-top: 10px;
+  }
+
+  .col-sm-4 {
+      border: solid 1px black;
+  }
